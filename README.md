@@ -1,1 +1,1 @@
-# Mint.com-s-signup-page-clone
+This is a simple HTML/CSS site that I create to practice my HTML/CSS skills
